@@ -46,7 +46,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Frontend Developer",
     icon: mobile,
   },
   {
@@ -116,11 +116,11 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "React js. Developer",
+    company_name: "starbucks",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "April 2023 - Current",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -129,7 +129,7 @@ const experiences = [
     ],
   },
   {
-    title: "React Native Developer",
+    title: "Web Design",
     company_name: "Tesla",
     icon: tesla,
     iconBg: "#E6DEDD",
